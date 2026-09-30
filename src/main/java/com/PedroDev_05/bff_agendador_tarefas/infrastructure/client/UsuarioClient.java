@@ -1,4 +1,4 @@
-package com.PedroDev_05.bff_agendador_tarefas.infrastructure;
+package com.PedroDev_05.bff_agendador_tarefas.infrastructure.client;
 
 import com.PedroDev_05.bff_agendador_tarefas.business.dto.in.EnderecoDTORequest;
 import com.PedroDev_05.bff_agendador_tarefas.business.dto.in.LoginRequestDTO;

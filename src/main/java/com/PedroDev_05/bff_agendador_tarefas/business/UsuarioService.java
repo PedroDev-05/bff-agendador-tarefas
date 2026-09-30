@@ -4,7 +4,7 @@ import com.PedroDev_05.bff_agendador_tarefas.business.dto.in.EnderecoDTORequest;
 import com.PedroDev_05.bff_agendador_tarefas.business.dto.in.LoginRequestDTO;
 import com.PedroDev_05.bff_agendador_tarefas.business.dto.in.TelefoneDTORequest;
 import com.PedroDev_05.bff_agendador_tarefas.business.dto.in.UsuarioDTORequest;
-import com.PedroDev_05.bff_agendador_tarefas.infrastructure.UsuarioClient;
+import com.PedroDev_05.bff_agendador_tarefas.infrastructure.client.UsuarioClient;
 import com.PedroDev_05.bff_agendador_tarefas.business.dto.out.TelefoneDTOResponse;
 import com.PedroDev_05.bff_agendador_tarefas.business.dto.out.UsuarioDTOResponse;
 import com.PedroDev_05.bff_agendador_tarefas.business.dto.out.EnderecoDTOResponse;
